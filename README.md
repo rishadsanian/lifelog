@@ -1,9 +1,9 @@
 # lifelog
-<header> 
-<a href="https://lifelog.glideapp.io/" target="_blank">
+  <header> 
+  <a href="https://lifelog.glideapp.io/" target="_blank">
   <img width="20%" height="20%" border="0" align="center"
        src="https://user-images.githubusercontent.com/77033627/216893852-9e2aa665-f08a-495d-99b6-8e74c9e717f3.png" alt="lifelog logo"> </a>
-
+ 
 
 https://lifelog.glideapp.io/
 
