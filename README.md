@@ -13,7 +13,6 @@ https://lifelog.glideapp.io/
       <p>lifelog is an experiental journal and analytics app that tracks your experiences in different life categories.</p>
     
 <ul>
-
   <li>Includes a journal, to do list, dashboard, and allows users to make their own custom tags which can be used as fields.</li>
   <li> Other features include universal search, ability to attach images to journal entires, record expenses and financial information, and many more. </li>
   <li> Can be used as a mobile or web app. </li>
