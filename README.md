@@ -10,7 +10,7 @@ https://lifelog.glideapp.io/
 
 <h3>About</h3>
   <b>
-      <p>lifelog is an experiental journal and analytics apps that tracks your experiences in different life categories.</p>
+      <p>lifelog is an experiental journal and analytics app that tracks your experiences in different life categories.</p>
     
 <ul>
 
